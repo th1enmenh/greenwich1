@@ -1,0 +1,1 @@
+print ("Hanoi is the capital of Vietnam")
