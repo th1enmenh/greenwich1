@@ -7,6 +7,6 @@ namespace
 {
     public class testt
     {
-        
+        string vcl = "okoko";
     }
 }
